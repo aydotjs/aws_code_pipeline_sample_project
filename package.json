@@ -1,0 +1,23 @@
+{
+  "name": "codedynasty-website",
+  "version": "1.0.0",
+  "description": "CodeDynasty - Your Gateway to Web Development Excellence",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": [
+    "web development",
+    "coding",
+    "dynasty"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
